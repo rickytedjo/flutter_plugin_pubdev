@@ -25,16 +25,16 @@
 
 # Tugas Praktikum
 
-# 2.
+## 2.
 Untuk menambah dan menginstall dependency auto_size_text
 
-# 3.
+## 3.
 Untuk menambah parameter pada konstruktor widget
 
-# 4.
+## 4.
 RedTextWidget dan Text biasa, RedTextWidget menggunakan autosizetext yang dimana text akan diubah ukurannya hingga pas dengan kontainer nya
 
-# 5.
+## 5.
 - minFontSize: menentukan ukuran minimal
 - maxFontSize: menentukan ukuran maksimal
 - textAlign : posisi text secara horizontal
